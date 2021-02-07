@@ -1,0 +1,293 @@
+/*Universal Class*/
+.bg-custom-btn{
+ background: #00B5AD;
+ color:#fff;
+ border-radius: 3px;	
+}
+.bg-custom-btn:hover{
+ background-color: rgb(217, 83, 79);
+ color:#fff;
+}
+
+.pa-heading{
+	font-size:25px;
+	text-align:center;
+}
+.heading-border{
+	border-bottom:3px solid #00B5AD;
+}
+
+/*Category post list*/
+.category-post-list{
+	 background: #00B5AD; color:#fff; border-radius: 3px;
+}
+.category-post-list p{
+	font-size:20px;text-align:center; padding-top:50px;padding-bottom:30px;
+}
+.category-post-list img{
+	width:100px;height:100px;
+}
+.category-post-list a,h2{
+	text-decoration:none;color:#000;
+}
+.post-summary-table .box-shad{
+	 margin-top:100px; box-shadow: 0px 5px 10px #DDDDDD;
+}
+.post-summary-table tbody{
+	 background: #F8F8F9;
+}
+.post-summary-table .fa{
+	 color:#D9534F;
+}
+.post-summary-table .btn {
+	background: #00B5AD; color: #fff; border-radius:5px; padding:10px; font-size:20px;
+}
+.post-summary-table span .fa {
+	color: #fff;
+}
+.post-summary-table .btn:hover {
+	background-color: rgb(217, 83, 79); border:1px solid #D9534F;
+}
+.open-modal-btn{
+ background: #00B5AD;color:#fff;border-radius: 3px;
+}
+.open-modal-btn:hover{
+ background-color: rgb(217, 83, 79);color:#fff;
+}
+.best-crypto-exchange-review{
+ margin-top:50px; border-bottom:1px solid #6E6D6D !important; padding: 30px 5px; background: #F8F8F9;
+}
+.best-crypto-exchange-review .mar-top{
+	margin-top:10px;
+}
+.top-crypto-exchange-review{
+	margin-top:50px; background: #fff; padding: 30px 5px;
+}
+.top-crypto-exchange-review .mar-top{
+	margin-top:10px;
+}
+.top-crypto-exchange-review img{
+	height:100px;width:100px;
+}
+.top-crypto-exchange-review .read-full-process{
+	background: #00B5AD;color:#fff;border-radius: 3px;
+}
+.top-crypto-exchange-review .read-full-process:hover{
+	background-color: rgb(217, 83, 79);
+}
+.top3-most-popular{
+	margin-top:50px; background: #fff; padding: 30px 5px;
+}
+
+.top3-most-popular .mar-top{
+	margin-top:10px;
+}
+.top3-most-popular img{
+	width:180px;
+}
+.top3-most-popular .coupon-badges .badge-verified {
+    color: #02bb8c;
+    font-size: .85rem;
+    margin-right: 10px;
+}
+.top3-most-popular .btn-coupon{
+	background: #F8F8F9;
+	padding:20px;
+}
+
+.top3-most-popular .btn-coupon:hover {
+ border-style: outset;
+}
+.top3-most-popular .open-modal-btn{
+ background: #00B5AD; color:#fff;border-radius: 3px;
+}
+.top3-most-popular .open-modal-btn:hover{
+ background-color: rgb(217, 83, 79);color:#fff;
+}
+.verified100-best-crypto{
+  margin-top:50px; background: #fff; background-image: url('review_by_professional.jpeg');background-size:cover; color:#fff;
+}
+.verified100-best-crypto .pa-bg{
+  text-align:center; background:#00B5AD;padding: 30px 5px;
+}
+.verified100-best-crypto .div-padding{
+  padding: 100px 10px;
+}
+.verified100-best-crypto .pa-inner-heading{
+  font-size:35px;
+}
+.verified100-best-crypto .pa-description{
+  padding:5px; font-size:18px;
+}
+.top10-ceypto-exchange{
+	margin-top:50px; background: #fff; padding: 30px 5px;
+}
+.top10-ceypto-exchange img{
+	margin-top:15px;
+}
+.top10-ceypto-exchange .pa-heading{
+	text-align:center;
+}
+.top10-ceypto-exchange .pa-text{
+	padding:0px 40px;
+}
+.top10-ceypto-exchange .fa{
+	 color:#D9534F;
+}
+.top10-ceypto-exchange .btn {
+	background: #00B5AD; color: #fff; border-radius:5px; padding:10px; font-size:20px;
+}
+.top10-ceypto-exchange span .fa {
+	color: #fff;
+}
+.top10-ceypto-exchange .btn:hover {
+	background-color: rgb(217, 83, 79); border:1px solid #D9534F;
+}
+.successfully-investigate-in-future{
+ margin-top:50px;  padding: 30px 5px; background:#fff;
+}
+.successfully-investigate-in-future img{
+  width:98%;
+}
+.exchange-reviews-in-numbers{
+	margin-top:20px;  padding: 10px 5px;
+}
+.exchange-reviews-in-numbers .mar-top{
+	margin-top:20px;
+}
+.main-aspects-of-crypto-exchange{
+	margin-top:50px;  padding: 10px; background:#fff;
+}
+.main-aspects-of-crypto-exchange .mar-top{
+	margin-top:20px;
+}
+.faq{
+	margin-top:15px; padding: 10px; text-align:center;padding: 30px 5px;
+}
+
+.faq h5, p{
+	padding:10px;
+}
+
+
+/*CSS for review page*/
+
+/*Coinbase Review*/
+.coinbase-review{
+	 background: #00B5AD; color:#fff; border-radius: 3px;
+}
+.coinbase-review .pa-heading{
+	font-size:40px; margin-top:20px;
+}
+.coinbase-review .meta-description{
+	margin-top:0px; font-size:20px;
+}
+.coinbase-review .btn {
+	background-color: rgb(217, 83, 79); color:#fff; border:1px solid #D9534F; border-radius:3px;margin:20px 0px;
+}
+.coinbase-review .btn:hover {
+	background-color: rgb(217, 83, 79); color:#fff; border:1px solid #D9534F;
+}
+.coinbase-review a,h2{
+	text-decoration:none;color:#000;
+}
+.coinbase-review img{
+	width:100px;height:100px;
+}
+
+/*Post Details*/
+.post-details{ 
+	background-color: #fff;
+	margin-top:150px;
+	padding:10px;
+   }
+.post-details .coin-logo img{
+	margin-top:22px;
+	width:50px;
+}   
+.post-details .our-score{
+	background: #EFEFEF;
+	padding:20px;
+	text-align:center;
+}
+.post-details .our-score .fa{
+	color:#D9534F;
+}
+.post-details .left-sidebar{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.post-details .right-sidebar{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.post-details .right-sidebar h2{
+	padding:2px 5px;
+}
+.post-details .right-sidebar h5{
+	padding:2px 5px;
+}
+.post-details .right-sidebar .things-we-like .fa{
+	color:#00B5AD;
+}
+
+.post-details .right-sidebar h2{
+	padding:2px 5px;
+}
+.post-details .right-sidebar .things-not-like{
+	margin-top:20px;
+  }
+.post-details .right-sidebar .things-not-like .fa{
+	color:#D9534F;
+}
+
+.post-details .right-sidebar .btn {
+	background-color: rgb(217, 83, 79); color:#fff; border:1px solid #D9534F; border-radius:3px;margin:20px 0px;
+}
+.post-details .right-sidebar .btn:hover {
+	background-color: rgb(217, 83, 79); color:#fff; border:1px solid #D9534F;
+}
+.post-details .mar-top{
+	margin-top:50px;
+}
+.post-details .leave-review p{
+	background:#EFEFEF; border:1px solid #00B5AD; margin-top:10px;
+}
+.post-details .left-sidebar .review-btn .btn{
+	background: #00B5AD; color:#fff; border-radius:3px;
+}
+
+@media (max-width: 767px) {
+	/*category page*/
+	/*..................*/
+
+	/*review page*/
+	.post-details .left-sidebar .coin-logo img{
+       margin-top: 0px;
+    }
+	.post-details .our-score{
+	  margin-top:40px;
+    }
+   .post-details .right-sidebar{
+   	margin-top:50px;
+	text-align:center;
+  }
+  .post-details .right-sidebar .things-not-like{
+	margin-top:50px;
+  }
+  .post-details .left-sidebar .review-btn{
+	text-align:center;
+}
+  
+}
+
+@media (min-width: 768px) {
+  /*category page*/
+  .modal-xl {
+    width: 90%;
+   max-width:1200px;
+  }
+
+  /*review page*/
+  
+}
